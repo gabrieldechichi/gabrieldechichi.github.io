@@ -8,5 +8,5 @@ Assets:
 
 Links:
 
-- Asset Store Publisher Page
+- [Asset Store Publisher Page](https://assetstore.unity.com/publishers/76657?preview=1)
 - [Github](https://github.com/gabrieldechichi)
